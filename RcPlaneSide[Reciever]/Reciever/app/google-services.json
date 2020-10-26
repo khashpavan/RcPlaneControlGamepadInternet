@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215949761700",
+    "firebase_url": "https://reciever-a3e3d.firebaseio.com",
+    "project_id": "reciever-a3e3d",
+    "storage_bucket": "reciever-a3e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215949761700:android:aea9d0c0c1b4b982729a31",
+        "android_client_info": {
+          "package_name": "com.example.reciever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215949761700-fnbvcf126norheqe6uea6038jeoe459t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reciever",
+            "certificate_hash": "5900d26525777818ec2bbf37462c9b12f0c4fa30"
+          }
+        },
+        {
+          "client_id": "215949761700-7k87rfffk1ok8t6ca36umm75tghk0spi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbe4QyfufF0N9K05OcVJ3uH_OndaEu0pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215949761700-7k87rfffk1ok8t6ca36umm75tghk0spi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
